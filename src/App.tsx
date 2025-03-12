@@ -39,8 +39,8 @@ function App() {
 
 	return (
 		<Container>
-			<Typography variant="h3" margin="normal" textAlign={"center"}>
-				Giveaway
+			<Typography variant="h3" my={3} textAlign={"center"}>
+				Simple Giveaway
 			</Typography>
 			<Card sx={{ padding: 2, margin: 2 }}>
 				<FormControlLabel
